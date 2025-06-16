@@ -1,6 +1,3 @@
-# large-format-3d-printer
-A production-grade, WiFi-enabled, large-volume 3D printer for Hack Club's Highway to Undercity event
-
 # Large Format 3D Printer
 
 ![render](images/printer_render.jpg)
@@ -29,3 +26,11 @@ This printer is designed to offer a **large build volume**, **reliable performan
 - Testing & tuning: 🔜
 
 ## 📁 Repo Structure
+├── README.md
+├── JOURNAL.md
+├── BOM.md
+├── firmware/
+├── cad/
+├── images/
+├── wiring/
+└── docs/
