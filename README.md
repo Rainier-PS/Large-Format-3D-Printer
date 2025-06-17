@@ -1,52 +1,99 @@
-# Large Format 3D Printer
-
-![render](images/printer_render.jpg)
-
-Welcome to my custom production-quality 3D printer project, built for [Hack Club's Highway to Undercity](https://hackclub.com/highway/)!  
-This printer is designed to offer a **large build volume**, **reliable performance**, and **modern features** such as **WiFi connectivity**, **auto bed leveling**, and **direct drive extrusion**.
+# 🖨️ Large Format Cartesian 3D Printer
 
 ## 🔧 Project Overview
+A custom-built large-format Cartesian 3D printer designed for high-quality DIY fabrication with a competitive edge against commercial systems.
+
+### ✨ Key Specs
 - **Build Volume:** 310 x 310 x 340 mm
-- **Core Features:** 
-  - WiFi remote upload (via ESP32 connected to Mega)
-  - Auto bed leveling (BLTouch)
-  - Silent TMC2209 stepper drivers
-  - Heated bed & all-metal hotend
+- **Motion System:** Cartesian XYZ
 - **Controller:** Arduino Mega 2560 + RAMPS 1.4
-- **Firmware:** Marlin 2.1.2 (custom config)
-- **Goal:** A DIY printer that competes with commercial-grade systems.
+- **Stepper Drivers:** TMC2209 (ultra-quiet and reliable)
+- **Firmware:** Marlin 2.1.2 (custom configuration)
+- **Extruder:** BMG-style direct drive
+- **Hotend:** E3D V6 clone
+- **Bed:** 24V heated aluminum bed with PEI sheet
+- **PSU:** Mean Well LRS-350-24
 
-## 📌 Progress
-- Planning: ✅
-- Design & render: ✅
-- Journal started: ✅
-- BOM created: ✅
-- Firmware config: 🔜
-- Assembly: 🔜
-- Testing & tuning: 🔜
+---
 
-# 🧾 Bill of Materials – Large Format 3D Printer
+## 💡 Why I Made This Project
 
-| Part                             | Qty | Estimated Cost (USD) |
-|----------------------------------|-----|-----------------------|
-| 2020 Aluminum Extrusions (cut)   | -   | $40.00                |
-| M5 Screws, T-nuts, brackets      | -   | $12.00                |
-| Arduino Mega 2560 (clone)        | 1   | $10.00                |
-| RAMPS 1.4 Board                  | 1   | $8.00                 |
-| Stepper Drivers (TMC2209)        | 4   | $16.00                |
-| NEMA17 Stepper Motors            | 4   | $40.00                |
-| GT2 Timing Belts & Pulleys       | -   | $8.00                 |
-| Linear Rails / Rods + Bearings   | -   | $25.00                |
-| Heated Bed (310x310mm, 24V)      | 1   | $30.00                |
-| BMG Direct Drive Extruder        | 1   | $14.00                |
-| E3D V6 Clone Hotend (All Metal)  | 1   | $10.00                |
-| Mean Well LRS-350-24 PSU         | 1   | $25.00                |
-| TFT LCD Screen with SD slot      | 1   | $12.00                |
-| BLTouch (Auto Bed Leveling)      | 1   | $12.00                |
-| ESP32 Dev Board (WiFi)           | 1   | $4.00 (already owned) |
-| Wires, Connectors, Ferrules      | -   | $5.00                 |
-| Print Surface (PEI Sheet)        | 1   | $5.00                 |
-| Misc (zip ties, mounts, etc)     | -   | $4.00                 |
+I wanted to build a production-grade 3D printer that is not only budget-friendly, but also offers a large build area, solid mechanical reliability, and excellent print quality.
 
-**Total Estimate:** ≈ **$290.00**
-*(Leaves some buffer for shipping, taxes, or unexpected parts)*
+This project also serves as a hands-on learning experience where I could improve my skills in:
+- **Electronics assembly and integration**
+- **CAD modeling and mechanical design**
+- **Firmware configuration (Marlin)**
+- **Wiring, troubleshooting, and system-level design**
+
+The Hack Club Highway event was the perfect place to begin this journey — with mentorship, resources, and motivation to build something real from the ground up.
+
+Ultimately, I wanted this printer to be **good enough to use as my daily driver**: a machine I can rely on for future projects, prototypes, and creative builds beyond the event itself.
+
+---
+
+## 🖼️ Project Gallery
+
+### Final Build Photos
+> _(Replace these with your actual images in the `/images/` folder)_
+![photo1](images/photo1.jpg)  
+![photo2](images/photo2.jpg)
+
+---
+
+### Partial 3D CAD Model
+> *Only small parts such as the extruder mount and panel brackets were modeled.*
+![cad_screenshot](images/cad_screenshot.png)
+
+---
+
+### Wiring Diagram
+> *Basic schematic of wiring between RAMPS board, endstops, stepper motors, thermistors, and heated bed.*
+![wiring_diagram](images/wiring_diagram.png)
+
+---
+
+## 🔌 Wiring Overview
+- Endstops: X, Y, Z (mechanical switches)
+- Thermistors: Hotend + Bed
+- Stepper Motors: X, Y, Z (dual), E
+- MOSFETs: Bed heater, hotend heater
+- Fans: Hotend cooling + part cooling
+
+---
+
+## 📦 Bill of Materials (BOM)
+
+| Item                    | Quantity | Description                                   | Price (USD) |
+|-------------------------|----------|-----------------------------------------------|-------------|
+| Arduino Mega 2560       | 1        | Main controller                               | $12         |
+| RAMPS 1.4               | 1        | Shield for Mega                               | $5          |
+| TMC2209 Drivers         | 4        | Silent stepper motor drivers                  | $20         |
+| NEMA 17 Stepper Motors  | 5        | X, Y, Z (dual), E                             | $60         |
+| Heated Bed (310x310mm)  | 1        | 24V, PEI surface                              | $25         |
+| BMG Direct Drive        | 1        | Extruder system                               | $15         |
+| E3D V6 Clone            | 1        | Hotend                                        | $10         |
+| 2020 Aluminum Extrusion | ~10      | Frame structure                               | $40         |
+| Mean Well LRS-350-24    | 1        | 24V Power Supply                              | $30         |
+| Screws, Connectors, etc.| various  | Assembly hardware                             | ~$10        |
+
+> A downloadable CSV is available at `BOM.csv`.
+
+---
+
+## 📂 File Structure
+
+```bash
+project-root/
+├── README.md
+├── JOURNAL.md
+├── BOM.csv
+├── /cad/
+│   ├── extruder_mount.FCStd
+│   └── panel_bracket.stl
+├── /firmware/
+│   └── Marlin-2.1.2-custom/
+├── /images/
+│   ├── photo1.jpg
+│   ├── cad_screenshot.png
+│   └── wiring_diagram.png
