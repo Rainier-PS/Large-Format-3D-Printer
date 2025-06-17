@@ -9,8 +9,7 @@ A custom-built large-format Cartesian 3D printer designed for high-quality DIY f
 - **Controller:** Arduino Mega 2560 + RAMPS 1.4
 - **Stepper Drivers:** TMC2209 (ultra-quiet and reliable)
 - **Firmware:** Marlin 2.1.2 (custom configuration)
-- **Extruder:** BMG-style direct drive
-- **Hotend:** E3D V6 clone
+- **Extruder & Hotend:** MK8 extruder + hotend kit
 - **Bed:** 24V heated aluminum bed with PEI sheet
 - **PSU:** Mean Well LRS-350-24
 
@@ -71,8 +70,7 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 | TMC2209 Drivers         | 4        | Silent stepper motor drivers                  | $20         |
 | NEMA 17 Stepper Motors  | 5        | X, Y, Z (dual), E                             | $60         |
 | Heated Bed (310x310mm)  | 1        | 24V, PEI surface                              | $25         |
-| BMG Direct Drive        | 1        | Extruder system                               | $15         |
-| E3D V6 Clone            | 1        | Hotend                                        | $10         |
+| MK8 Extruder + Hotend Kit | 1      | Bowden-style plastic extruder + hotend        | $15         |
 | 2020 Aluminum Extrusion | ~10      | Frame structure                               | $40         |
 | Mean Well LRS-350-24    | 1        | 24V Power Supply                              | $30         |
 | Screws, Connectors, etc.| various  | Assembly hardware                             | ~$10        |
