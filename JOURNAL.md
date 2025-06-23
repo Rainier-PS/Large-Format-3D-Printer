@@ -39,7 +39,7 @@
   * Started 3D modeling using Fusion 360
   * Created full frame structure using 2020 extrusions
   * Modeled Y-axis smooth rods and bearing holders
-* **Image:** ![wiring_diagram](images/17june.jpg)
+* **Image:** ![Frame](images/journal/June%2017%202025_Frame.png)
 
 ---
 
@@ -51,7 +51,7 @@
   * Modeled Z-axis motor mounts, leadscrew guides, and couplers
   * Modeled Z vertical supports and lead nut mounts
   * Added placeholders for hotend and X-carriage
-* **Image:** ![wiring_diagram](images/18june.jpg)
+* **Image:** ![Z-axis](images/journal/June%2018%202025_Z-axis.png)
 
 ---
 
@@ -63,7 +63,7 @@
   * Finished modeling X-axis assembly with motor, pulley, and belt path
   * Created toolhead and carriage mount for MK8 extruder
   * Verified spacing between axes and fitment
-* **Image:** ![wiring_diagram](images/19june.jpg)
+* **Image:** ![X-axis](images/journal/June%2019%202025_X-axis.png)
 
 ---
 
@@ -75,7 +75,7 @@
   * Modeled bed carriage plate and linear bearing blocks
   * Added heated bed PCB to model
   * Added display mount bracket and dimensions
-* **Image:** ![wiring_diagram](images/20june.jpg)
+* **Image:** ![Electronics](images/journal/June%2020%202025_Electronics.png)
 
 ---
 
@@ -99,7 +99,7 @@
   * Started schematic design on EasyEDA
   * Wired motors, endstops, heaters, fans, and sensors
   * Checked RAMPS 1.4 and TMC2209 compatibility
-* **Image:** ![wiring_diagram](images/22june.jpg)
+* **Image:** ![Wiring Diagram](images/journal/June%2022%202025_Basic%20Schematics.png)
 
 ---
 
