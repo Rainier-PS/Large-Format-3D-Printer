@@ -47,8 +47,8 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 ---
 
 ### Wiring Diagram
-> *Basic schematic of wiring between RAMPS board, endstops, stepper motors, thermistors, and heated bed.*
-![wiring_diagram](images/wiring_diagram.png)
+> *Schematic of wiring between Arduino Mega, RAMPS board, endstops, stepper motors, thermistors, and heated bed.*
+![wiring_diagram](images/System%20Schematic.png)
 
 ---
 
