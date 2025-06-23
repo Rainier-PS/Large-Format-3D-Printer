@@ -24,9 +24,8 @@
 * **Time Spent:** 5.5 hours
 * **Activities:**
 
-  * Finalized component list and ordered major parts
+  * Finalized component list and shortlists major parts
   * Designed and sketched rough dimensions for frame
-  * Defined print volume and motion system layout
 * **Image:** ![Part Selection](images/journal/June%2016%202025_Part%20Selection.jpg)
 
 ---
@@ -38,7 +37,6 @@
 
   * Started 3D modeling using Fusion 360
   * Created full frame structure using 2020 extrusions
-  * Modeled Y-axis smooth rods and bearing holders
 * **Image:** ![Frame](images/journal/June%2017%202025_Frame.png)
 
 ---
@@ -48,6 +46,7 @@
 * **Time Spent:** 6 hours
 * **Activities:**
 
+  * Modeled Y-axis smooth rods and bearing holders
   * Modeled Z-axis motor mounts, leadscrew guides, and couplers
   * Modeled Z vertical supports and lead nut mounts
   * Added placeholders for hotend and X-carriage
@@ -74,7 +73,7 @@
 
   * Modeled bed carriage plate and linear bearing blocks
   * Added heated bed PCB to model
-  * Added display mount bracket and dimensions
+  * Added PSU and PSU mount to rear frame
 * **Image:** ![Electronics](images/journal/June%2020%202025_Electronics.png)
 
 ---
@@ -84,7 +83,7 @@
 * **Time Spent:** 5 hours
 * **Activities:**
 
-  * Added PSU and PSU mount to rear frame
+  * Added display mount bracket and dimensions
   * Performed design cleanup and dimension review
   * Exported final screenshots and prepared CAD files
 * **Image:** ![3D Model](images/journal/June%2021%202025_3D%20Model.png)
@@ -97,7 +96,7 @@
 * **Activities:**
 
   * Started schematic design on EasyEDA
-  * Wired motors, endstops, heaters, fans, and sensors
+  * Wired motors, endstops, heaters, fans, and thermistors
   * Checked RAMPS 1.4 and TMC2209 compatibility
 * **Image:** ![Wiring Diagram](images/journal/June%2022%202025_Basic%20Schematics.png)
 
@@ -109,7 +108,7 @@
 * **Activities:**
 
   * Completed wiring diagram and schematic labels
-  * Created detailed schematic notes document (under 'docs/')
+  * Created detailed schematic notes document ![Wiring Description]('docs/Schematic%20Notes%20and%20Wiring%20Explanation.txt')
   * Uploaded final CAD, firmware, and wiring files to GitHub
 * **Image:** ![System Schematic](images/journal/June%2023%202025_System%20Schematic.png)
 
