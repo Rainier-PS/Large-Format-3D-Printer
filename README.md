@@ -41,7 +41,7 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 ---
 
 ### 3D CAD Model
-> *Screenshot of the full 3D Printer 3D model*
+> *Simplified CAD model for structural representation only. Some non-critical details (e.g., pulleys, leadscrews, LCD) were omitted for clarity due to complexity and time limitations as a beginner*
 ![cad_screenshot](images/cad_screenshot.png)
 
 ---
