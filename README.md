@@ -95,11 +95,5 @@ project-root/
 ├── JOURNAL.md
 ├── BOM.csv
 ├── /cad/
-│   ├── extruder_mount.FCStd
-│   └── panel_bracket.stl
-├── /firmware/
-│   └── Marlin-2.1.2-custom/
 ├── /images/
-│   ├── photo1.jpg
-│   ├── cad_screenshot.png
-│   └── wiring_diagram.png
+├── /docs/
