@@ -15,8 +15,7 @@
   * Compared Cartesian vs CoreXY vs Delta layouts
   * Chose Cartesian for simplicity and rigidity
   * Began sketching rough layout ideas and BOM draft
-* **Image:** (images/journal/June%2015%202025_Brainstorm.png)
-* ![wiring_diagram](images/System%20Schematic.png)
+* **Image:** ![Brainstorm](images/journal/June%2015%202025_Brainstorm.png)
 
 ---
 
