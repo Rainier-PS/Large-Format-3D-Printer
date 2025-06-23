@@ -108,7 +108,7 @@
 * **Activities:**
 
   * Completed wiring diagram and schematic labels
-  * Created detailed schematic notes document ![Wiring Description]('docs/Schematic%20Notes%20and%20Wiring%20Explanation.txt')
+  * Created detailed schematic notes document (docs/Schematic%20Notes%20and%20Wiring%20Explanation.txt)
   * Uploaded final CAD, firmware, and wiring files to GitHub
 * **Image:** ![System Schematic](images/journal/June%2023%202025_System%20Schematic.png)
 
