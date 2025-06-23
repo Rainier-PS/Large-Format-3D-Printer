@@ -40,8 +40,8 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 
 ---
 
-### Partial 3D CAD Model
-> *Only small parts such as the extruder mount and panel brackets were modeled.*
+### 3D CAD Model
+> *Screenshot of the full 3D Printer 3D model*
 ![cad_screenshot](images/cad_screenshot.png)
 
 ---
