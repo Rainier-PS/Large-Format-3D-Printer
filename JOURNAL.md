@@ -15,7 +15,7 @@
   * Compared Cartesian vs CoreXY vs Delta layouts
   * Chose Cartesian for simplicity and rigidity
   * Began sketching rough layout ideas and BOM draft
-* **Image:** `images/15june.jpg`
+* **Image:** `images/journal/June%2015%202025_Brainstorm.png`
 
 ---
 
@@ -27,7 +27,7 @@
   * Finalized component list and ordered major parts
   * Designed and sketched rough dimensions for frame
   * Defined print volume and motion system layout
-* **Image:** `images/16june.jpg`
+* **Image:** `images/journal/June%2016%202025_Part%20Selection.jpg`
 
 ---
 
@@ -87,7 +87,7 @@
   * Added PSU and PSU mount to rear frame
   * Performed design cleanup and dimension review
   * Exported final screenshots and prepared CAD files
-* **Image:** `images/21june.jpg`
+* **Image:** `images/journal/June%2021%202025_3D%20Model.png`
 
 ---
 
@@ -111,7 +111,7 @@
   * Completed wiring diagram and schematic labels
   * Created detailed schematic notes document
   * Uploaded final CAD, firmware, and wiring files to GitHub
-* **Image:** `images/23june.jpg`
+* **Image:** `images/journal/June%2023%202025_System%20Schematic.png`
 
 ---
 
