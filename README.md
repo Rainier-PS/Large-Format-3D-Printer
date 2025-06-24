@@ -1,9 +1,9 @@
-# 🖨️ Large Format Cartesian 3D Printer
+# Large Format Cartesian 3D Printer
 
-## 🔧 Project Overview
+## Project Overview
 A custom-built large-format Cartesian 3D printer designed for high-quality DIY fabrication with a competitive edge against commercial systems.
 
-### ✨ Key Specs
+### Key Specs
 - **Build Volume:** 310 x 310 x 340 mm
 - **Motion System:** Cartesian XYZ
 - **Controller:** Arduino Mega 2560 + RAMPS 1.4
@@ -15,7 +15,7 @@ A custom-built large-format Cartesian 3D printer designed for high-quality DIY f
 
 ---
 
-## 💡 Why I Made This Project
+## Why I Made This Project
 
 I wanted to build a production-grade 3D printer that is not only budget-friendly, but also offers a large build area, solid mechanical reliability, and excellent print quality.
 
@@ -31,7 +31,7 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 
 ---
 
-## 🖼️ Project Gallery
+## Project Gallery
 
 ---
 
@@ -60,7 +60,7 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 
 ---
 
-## 📦 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 
 | No. | Category             | Item                                           | Quantity     | Est. Price (USD) | Description / Notes                                               | Link |
@@ -122,7 +122,7 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```bash
 project-root/
