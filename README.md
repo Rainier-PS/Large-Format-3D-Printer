@@ -53,7 +53,7 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 - **Endstops**: X, Y, Z (NO → `MIN` pins)  
 - **Thermistors**: Hotend (`A13`), Bed (`A14`)  
 - **Steppers**: X, Y, Z (dual), E (TMC2209 legacy)  
-- **Fans**: Hotend cooling (`D9`), Electronics cooling  
+- **Fans**: Hotend cooling, Electronics cooling  
 - **Heaters**: Hotend (`D10`), Bed (`D8`)  
 
 > *[Full wiring details](docs/Schematic%20Notes%20and%20Wiring%20Explanation.txt)*
