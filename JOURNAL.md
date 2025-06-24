@@ -1,8 +1,8 @@
 # JOURNAL.md – Large Format DIY 3D Printer
 
-**Total Time Spent: 50 hours**
+**Total Time Spent: 52 hours**
 **Duration: 15–23 June 2025**
-**Daily Avg: \~5–6 hours**
+**Daily Avg: \~5 hours**
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 18 June 2025
 
-* **Time Spent:** 6 hours
+* **Time Spent:** 5 hours
 * **Activities:**
 
   * Modeled Y-axis smooth rods and bearing holders
@@ -104,13 +104,27 @@
 
 ## 23 June 2025
 
-* **Time Spent:** 6.5 hours
+* **Time Spent:** 5.5 hours
 * **Activities:**
 
   * Completed wiring diagram and schematic labels
   * Created detailed schematic notes document ![Wiring Description](docs/Schematic%20Notes%20and%20Wiring%20Explanation.txt)
   * Uploaded final CAD, firmware, and wiring files to GitHub
 * **Image:** ![System Schematic](images/journal/June%2023%202025_System%20Schematic.png)
+
+---
+
+## 24 June 2025
+
+* **Time Spent:** 4 hours
+* **Activities:**
+
+  * Performed final  checks and refinements
+  * Documented all refinements and adjustments
+  * Prepared complete project submission
+  * Verified all GitHub repository contents and documentation
+  * Finalized README.md
+* **Image:** ![Final Checks](images/journal/June%2024%202025_FinalChecks.jpg)
 
 ---
 
