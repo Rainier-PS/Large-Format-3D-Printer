@@ -33,11 +33,6 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 
 ## 🖼️ Project Gallery
 
-### Final Build Photos
-> _(Replace these with your actual images in the `/images/` folder)_
-![photo1](images/photo1.jpg)  
-![photo2](images/photo2.jpg)
-
 ---
 
 ### 3D CAD Model
