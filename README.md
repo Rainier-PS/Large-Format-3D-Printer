@@ -47,12 +47,16 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 
 ---
 
-## 🔌 Wiring Overview
-- Endstops: X, Y, Z (mechanical switches)
-- Thermistors: Hotend + Bed
-- Stepper Motors: X, Y, Z (dual), E
-- Fans: Hotend cooling + part cooling
-> Full wiring notes. ![Wiring Description](docs/Schematic%20Notes%20and%20Wiring%20Explanation.txt)
+## 🔌 Wiring Overview  
+- **Controller**: Arduino Mega 2560 + RAMPS 1.4  
+- **Power**: 24V PSU → RAMPS, 12V buck → Arduino  
+- **Endstops**: X, Y, Z (NO → `MIN` pins)  
+- **Thermistors**: Hotend (`A13`), Bed (`A14`)  
+- **Steppers**: X, Y, Z (dual), E (TMC2209 legacy)  
+- **Fans**: Hotend cooling (`D9`), Electronics cooling  
+- **Heaters**: Hotend (`D10`), Bed (`D8`)  
+
+> *[Full wiring details](docs/Schematic%20Notes%20and%20Wiring%20Explanation.txt)*
 
 ---
 
