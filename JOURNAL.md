@@ -124,7 +124,7 @@
   * Prepared complete project submission
   * Verified all GitHub repository contents and documentation
   * Finalized README.md
-* **Image:** ![Final Checks](images/journal/June%2024%202025_FinalChecks.jpg)
+* **Image:** ![Final Checks](images/journal/June%2024%202025_Final%20Checks.png)
 
 ---
 
