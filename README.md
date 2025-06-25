@@ -25,7 +25,7 @@ This project also serves as a hands-on learning experience where I could improve
 - **Firmware configuration (Marlin)**
 - **Wiring, troubleshooting, and system-level design**
 
-The Hack Club Highway event was the perfect place to begin this journey — with mentorship, resources, and motivation to build something real from the ground up.
+The Hack Club Highway event was the perfect place to begin this journey. With mentorship, resources, and motivation to build something real from the ground up.
 
 Ultimately, I wanted this printer to be **good enough to use as my daily driver**: a machine I can rely on for future projects, prototypes, and creative builds beyond the event itself.
 
