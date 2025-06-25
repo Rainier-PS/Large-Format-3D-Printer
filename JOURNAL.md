@@ -86,7 +86,7 @@
   * Added display mount bracket and dimensions
   * Performed design cleanup and dimension review
   * Exported final screenshots and prepared CAD files
-* **Image:** ![3D Model](images/journal/June%2021%202025_3D%20Model.png)
+* **Image:** ![3D Model](images/3D%20Model.png)
 
 ---
 
