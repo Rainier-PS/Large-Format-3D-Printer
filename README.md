@@ -37,7 +37,7 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 
 ### 3D CAD Model
 > *Simplified CAD model for structural representation only. Some non-critical details (e.g., pulleys, belts, LCD) were omitted for clarity*
-![cad_screenshot](images/3D%20Model%20.png)
+![cad_screenshot](images/3D%20Model.png)
 
 ---
 
