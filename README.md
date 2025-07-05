@@ -121,8 +121,12 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 | 55  | Misc & Assembly        | Kapton Tape                                       | 1             | $1               | Heat resistant, for thermistor & bed       | [Link](https://www.tokopedia.com/towajo/solasi-selotip-lakban-isolasi-anti-panas-kapton-heat-resistant-tape-polyimide-high-temperature-adhesive-33m-x10mm-022b9?utm_source=salinlink&utm_medium=share&utm_campaign=pdp-fclqavt7ua15-15809251782-0) 
 | 56  | Misc & Assembly  | AC Power Cable    | 1        | $4               | AC Cable for main power  | [Link](https://www.tokopedia.com/ventionacc/vention-kabel-power-c13-connector-3-prong-1-8m-eu-plug-zcg-1730865969691199429?utm_source=salinlink&utm_medium=share&utm_campaign=pdp-76llfr7551a0-16250774105--10000) |
 
+Total: $323
+
 >* Prices converted from IDR to USD using Google Currency Converter (June 2025)
+
 >  Prices are rounded up to the nearest whole dollar per item (maximum increase < $1).																									
+
 > A downloadable CSV is available at `BOM.csv`.
 
 ---
