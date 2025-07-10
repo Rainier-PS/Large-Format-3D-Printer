@@ -47,7 +47,7 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 
 ---
 
-## 🔌 Wiring Overview  
+## Wiring Overview  
 - **Controller**: Arduino Mega 2560 + RAMPS 1.4  
 - **Power**: 24V PSU → RAMPS, 12V buck → Arduino  
 - **Endstops**: X, Y, Z (NO → `MIN` pins)  
