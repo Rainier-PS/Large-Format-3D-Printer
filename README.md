@@ -1,7 +1,7 @@
 # Large Format Cartesian 3D Printer
 
 ## Project Overview
-A custom-built large-format Cartesian 3D printer designed for high-quality DIY fabrication with a competitive edge against commercial systems.
+This is a custom-built large-format Cartesian 3D printer designed for high-quality DIY fabrication with a competitive edge against commercial systems.
 
 ### Key Specs
 - **Build Volume:** 310 x 310 x 340 mm
@@ -36,7 +36,7 @@ Ultimately, I wanted this printer to be **good enough to use as my daily driver*
 ---
 
 ### 3D CAD Model
-> *Simplified CAD model for structural representation only. Some non-critical details (e.g., pulleys, belts, LCD) were omitted for clarity*
+> *Simplified CAD model for structural representation only. Some non-critical details (e.g., pulleys, belts, LCD) were omitted for simplicity*
 ![cad_screenshot](images/3D%20Model.png)
 
 ---
